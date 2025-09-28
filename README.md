@@ -2,4 +2,4 @@
 
 This is a NextJS starter 
 
-To get started, take a look at src/app/page.tsx.
+download all files to run the app 
